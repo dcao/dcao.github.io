@@ -1,2 +1,1 @@
-# dcao.github.io
-github pages (for cse 110)
+# *David*'s User Page
