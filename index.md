@@ -11,10 +11,10 @@ for more info, see the [README](./README.md).
 
 ## table of contents
 
-- [my hobbies](##my-hobbies)
-- [cse 110 goals](##cse-110-goals)
-- [contact](##contact)
-- [my screenshots](##my-screenshots)
+- [my hobbies](#my-hobbies)
+- [cse 110 goals](#cse-110-goals)
+- [contact](#contact)
+- [my screenshots](#my-screenshots)
 
 ## my hobbies
 
